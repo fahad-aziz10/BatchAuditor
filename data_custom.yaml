@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/ReadingAudit/Train
+val: /content/drive/MyDrive/ReadingAudit/Val
+
+nc: 1
+
+names: ["Reading"]
